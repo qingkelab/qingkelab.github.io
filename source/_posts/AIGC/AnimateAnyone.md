@@ -3,14 +3,14 @@ title: 2天狂拦2300star，AnimateAnyone到底是什么来头
 date: 2023-12-02 15:11:21
 categories: AIGC
 tags: 
-cover: AnimateAnyone/image-20231202102239007-1483760.png
+cover: https://qingkelab.github.io/2023/12/02/AIGC/AnimateAnyone/image-20231202102239007-1483760.png
 ---
 
 > 周末加班干活了～
 
 <!--more-->
 
-![image-20231202102239007](image-20231202102239007-1483760.png)
+![image-20231202102239007](AnimateAnyone/image-20231202102239007-1483760.png)
 
 ```shell
 Project page: https://humanaigc.github.io/animate-anyone/
