@@ -106,5 +106,5 @@ theme: anzhiyu
 deploy:
   type: git
   repo: https://github.com/qingkelab/qingkelab.github.io.git
-  branch: master
+  branch: main
   token: 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
